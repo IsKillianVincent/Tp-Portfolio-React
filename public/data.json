@@ -1,0 +1,49 @@
+{
+  "FullName": "Killian Vincent",
+  "Avatar": "https://media.licdn.com/dms/image/D4E03AQHthzmbf5fTww/profile-displayphoto-shrink_400_400/0/1685273175690?e=2147483647&v=beta&t=wCiMF4NtbhJzjzWnkz8dnD53MASQC-CzypZ3dfqHAf0",
+  "Title": "Beginner developper",
+  "SubTitle": "Loreofnfjkefz,l eznifnkiezn ze,n fklez flkzkl, zfkl ze,klf,kze,lf l,kze,k fl,z,opfe,clsmk,cslq njfkn fnkl fnfk enklznn ez lkenkfezkl n kleznkf ezn nklf nkzkn fznklk e",
+  "Projects": [
+    {
+      "Name": "Project A",
+      "Techno": "JavaScript",
+      "Description": "Development ",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    },
+    {
+      "Name": "Project B",
+      "Techno": "Python",
+      "Description": "Backend",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    },
+    {
+      "Name": "Project C",
+      "Techno": "Java",
+      "Description": "Enterprise application ",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    },
+    {
+      "Name": "Project A",
+      "Techno": "JavaScript",
+      "Description": "Development of a s",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    },
+    {
+      "Name": "Project B",
+      "Techno": "Python",
+      "Description": " with Django",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    },
+    {
+      "Name": "Project C",
+      "Techno": "Java",
+      "Description": "Enterpri Spring Boot",
+      "Image":"https://as2.ftcdn.net/v2/jpg/04/46/16/73/1000_F_446167323_Rt3CWhyakg1VbpZvAsSu7cAMKHcfZIXZ.jpg"
+    }
+  ],
+  "Address": "Rue la r",
+  "ZIPCode": "001",
+  "City": "Petaouchnoque", 
+  "Tel": "3408333760",
+  "Mail": "killian.vincent@livecampus.tech"
+}

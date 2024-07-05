@@ -5,6 +5,22 @@
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'blue-600': '#2196F3',
+              'gray-700': '#4a5568',
+              'gray-800': '#2d3748',
+              'gray-900': '#1a202c',
+            }
+          }
+        }
+      }
+    </script>
     <meta
       name="description"
       content="Web site created using create-react-app"
